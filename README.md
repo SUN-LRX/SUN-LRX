@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUN-LRX&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUN-LRX&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SUN-LRX/SUN-LRX/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SUN-LRX/SUN-LRX/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SUN-LRX/SUN-LRX/output/github-contribution-grid-snake.svg">
+</picture>
